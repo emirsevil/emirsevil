@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @emirsevil
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m @emirsevi
 -  I am a sophomore at Bilkent
 
