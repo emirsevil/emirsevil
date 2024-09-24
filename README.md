@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @emirsevi
--  I am a sophomore at Bilkent
+- 👋 Hi, I’m @emirsevil
+  
 
